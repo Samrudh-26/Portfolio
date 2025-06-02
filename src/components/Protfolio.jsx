@@ -28,7 +28,7 @@ const Portfolio = () => {
 
      <section id="Home" className="home section">
         <div className="home__img-container">
-          <img src="" alt="Samrudh HM" className="home__img" />
+          <img src="/photo.jpg" alt="Samrudh HM" className="home__img" />
         </div>
         <h1 className="home__title">Samrudh HM</h1>
         <p className="home__subtitle">Full-Stack Developer & UI/UX Designer</p>
